@@ -34,7 +34,7 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Coding",
       "keywords": [
         "Arduino",
         "TI MSP430"
@@ -54,14 +54,12 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Junior",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "Ruby on Rails",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML5",
+        "CSS3"
       ]
     },
     {
@@ -72,17 +70,17 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "FIGMA"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Le Wagon Montréal",
+      "area": "",
+      "studyType": "Bootcamp",
+      "startDate": "2020-01-13",
+      "endDate": "2020-03-13",
       "gpa": "",
       "courses": [
       ]
