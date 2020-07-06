@@ -1,39 +1,34 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Antoine Bonifacj",
+    "label": "Full-Stack Developper",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "antoinebonifacj@gmail.com",
+    "phone": "514-978-2462",
+    "website": "https://AntoineBonifacj.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "2412 boulevard de Maisonneuve Est",
+      "postalcode": "H2K 2E9",
+      "city": "Montréal",
+      "countryCode": "Canada",
+      "region": "Québec"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Antoinebonifacj",
+        "url": "http://github.com/Antoinebonifacj"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Antoine bonifacj",
+        "url": "https://www.linkedin.com/in/abonifacjmanager/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "antoinebonifacj",
+        "url": "http://twitter.com/AntoineBonifacj"
       }
     ]
   },
